@@ -66,7 +66,7 @@ const UnaLandingPage = () => {
       <header className="flex-grow container mx-auto px-4 py-12 md:py-16 flex flex-col-reverse md:flex-row items-center">
         <div className="w-full md:w-1/2 md:pr-10 text-center md:text-left">
           <h1 className="text-3xl md:text-5xl font-bold mb-4 md:mb-6 text-gray-900">
-            Simplifica tu Flujo de Trabajo con Una
+            Ve mas alla de uno Mas uno 0
           </h1>
           <p className="text-base md:text-xl text-gray-600 mb-6 md:mb-8">
             Una es tu plataforma de productividad todo en uno diseñada para agilizar 
